@@ -1,0 +1,13 @@
+<x>
+INITIALIZE x-Internet = 128+/-:13;
+Base_URL; = +f1-m13+v22;
+Base_URL_TYPE; = TRIO_COMPLEX;
+Base_URL_SPAN; = *1-64*65-128*129-192;
+Base_URL_PROTOCOL; = +Q*NIG-Q*SWI+(!RB)*VAN;
+Default_L/D; = PMP/RtL;
+Default_AlphaMove; +VE;
+Default_S_F; = Q-Q-(!RN);
+Big_Data_TYPE; = Alphabetic, AlphaNumeric, Geo-Contro; 
+CONTENT; = #;
+OUTPUT; = #;
+</x>
